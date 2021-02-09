@@ -1,0 +1,6 @@
+Princípio que detalha as necessidades de um teste unitário: FIRST
+    F - Fast:            O teste unitário deve ser executado bem rápido.
+    I - Independent:     Um teste não deve depender de outros, podendo ser executado em qualquer ordem.
+    R - Repeatable:      Um teste pode ser executado quantas vezes forem necessárias, a qualquer momento.
+    S - Self-Verifying:  Um teste deve saber quando sua execução foi correta, ou se falhou.
+    T - Timely:          Um teste deve ser criado no momento correto.
